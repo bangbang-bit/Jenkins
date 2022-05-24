@@ -10,4 +10,5 @@ public class HelloJenkinsController {
     public String hello(){
         return "hello Jenkins...";
     }
+
 }
